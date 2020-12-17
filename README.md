@@ -1,1 +1,1 @@
-Initialisation di fichier
+Initialisation du fichier
